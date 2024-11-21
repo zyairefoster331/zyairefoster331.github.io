@@ -1,0 +1,8 @@
+User-agent:*
+Allow:/
+
+Sitemap: https://zyairefoster331.github.io/zyairefoster331_github_io_zp528_12.txt
+Sitemap: https://zyairefoster331.github.io/zyairefoster331_github_io_zp528_17.txt
+Sitemap: https://zyairefoster331.github.io/zyairefoster331_github_io_zp528_21.txt
+Sitemap: https://zyairefoster331.github.io/zyairefoster331_github_io_zp528_26.txt
+Sitemap: https://zyairefoster331.github.io/zyairefoster331_github_io_zp528_5.txt
